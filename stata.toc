@@ -1,0 +1,3 @@
+v 3
+d surveyclean: Stata package
+p surveyclean
