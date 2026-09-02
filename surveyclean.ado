@@ -1,6 +1,6 @@
 *! surveyclean.ado - version 1.0.0 - 30aug2026
 *! Survey data tools
-*! Author: [Your Name]
+*! Author: Bishwajit Ghose (gb@infoart.ca)
 program define surveyclean
     version 14.0
 

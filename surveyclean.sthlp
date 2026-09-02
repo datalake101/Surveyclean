@@ -91,4 +91,4 @@ limit the influence of a few extreme design weights. By default creates
 
 {title:Author}
 
-{pstd}[Your Name] {hline 2} [your.email@example.com] {hline 2} [yourwebsite.com]{p_end}
+{pstd}Bishwajit Ghose {hline 2} gb@infoart.ca {hline 2} infoart.ca{p_end}
