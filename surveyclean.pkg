@@ -1,0 +1,26 @@
+v 3
+d 'SURVEYCLEAN': module providing survey data tools
+d
+d  surveyclean bundles four tools for checking a complex-survey
+d  dataset before svyset: wtcheck (validate survey weights),
+d  stratdx (check strata/PSU design structure), benchmark (compare
+d  sample shares to known population shares), and trimwt (trim/cap
+d  extreme survey weights).
+d
+d KW: survey data
+d KW: sampling weights
+d KW: complex survey design
+d
+d Requires: Stata version 14
+d
+d Distribution-Date: 20260830
+d
+d Author: Your Name
+d Support: email your.email@example.com
+
+f surveyclean.ado
+f surveyclean_wtcheck.ado
+f surveyclean_stratdx.ado
+f surveyclean_benchmark.ado
+f surveyclean_trimwt.ado
+f surveyclean.sthlp
